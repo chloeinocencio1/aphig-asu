@@ -1,0 +1,37 @@
+.contact-section h2 {
+    color: #763131;
+    text-shadow: 1px 1px #CCCCCC;
+    text-align: center;
+}
+
+.contact-links {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    text-align: center;
+}
+
+.contact-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-item h3 {
+    margin-bottom: 10px;
+}
+
+.contact-links img {
+    width: 310px;
+    margin-bottom: 5px;
+}
+
+.contact-item img[alt="Instagram"] {
+    width: 250px;
+}
+
+.contact-item p {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 5px; 
+}

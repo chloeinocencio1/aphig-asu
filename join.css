@@ -1,0 +1,55 @@
+.join-section {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.join-section h2 {
+    font-size: 1.5em;
+    color: #763131;
+}
+
+.join-button {
+    margin-top: -110px; /* Reduced margin to move the button closer to the video */
+    text-align: center;
+}
+
+.join-button img {
+    width: 400px; /* Set the button width */
+    display: block;
+    margin: 0 auto; /* Center the button */
+}
+
+.past-recruitments {
+    margin-top: -130px;
+    text-align: center;
+}
+
+.past-recruitments h2 {
+    font-size: 1.5em;
+    color: #763131;
+    margin-bottom: 20px;
+}
+
+.recruitment-columns {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.column {
+    flex: 1;
+    min-width: 250px;
+    margin: 10px;
+    text-align: center;
+}
+
+.column h3 {
+    font-size: 1.2em;
+    color: #763131;
+    margin-bottom: 10px;
+}
+
+.column img {
+    width: 100%;
+    height: auto;
+}
